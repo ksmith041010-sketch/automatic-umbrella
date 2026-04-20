@@ -1,2 +1,2 @@
-# automatic-umbrella
-Fun random number guessing game
+# Random Number Guessing Game
+A fun, random number guessing game.
