@@ -1,0 +1,13 @@
+# PyInstaller generated folders
+build/
+dist/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Windows
+desktop.ini
+Thumbs.db
