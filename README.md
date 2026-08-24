@@ -43,13 +43,14 @@ The project is available both as Python source code and as a standalone Windows 
 
 ## ▶️ Running the Game
 
-### Option 1 — Windows Executable
+### Option 1 - Download the .zip File
 
-Download **Version 1.0.0** from the **Releases** section and run:
+## 🎮 Installation Instructions
+1. Download the `GuessTheNumber_v1.0_Windows.zip` file below.
+2. Right-click the downloaded file and select **Extract All**.
+3. Open the extracted folder and double-click `GuessTheNumber.exe` to play!
 
-`GuessTheNumber.exe`
-
-No Python installation is required.
+*Note for Windows Users: Because this is an indie project without a commercial digital certificate, Windows SmartScreen may show a warning. Click **More Info** and then **Run Anyway** to start the game safely.*
 
 ### Option 2 — Run from Source
 
